@@ -1,0 +1,4 @@
+sport,event,market,selection,odds,model_probability,uncertainty,source,timestamp
+Football,EXEMPLE A vs B,1X2,A,2.10,0.55,0.04,DEMONSTRATION,2026-10-23T12:00:00Z
+Tennis,EXEMPLE C vs D,Vainqueur,C,1.75,0.59,0.06,DEMONSTRATION,2026-10-23T12:00:00Z
+Snooker,EXEMPLE E vs F,Vainqueur,F,2.50,0.45,0.04,DEMONSTRATION,2026-10-23T12:00:00Z
